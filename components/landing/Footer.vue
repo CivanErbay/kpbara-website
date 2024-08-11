@@ -1,7 +1,7 @@
 <template>
   <footer class="my-20">
     <p class="text-center text-sm text-slate-500">
-      Copyright © {{ new Date().getFullYear() }} kpBara. All rights reserved.
+      Copyright © {{ new Date().getFullYear() }} kpbara. All rights reserved.
     </p>
    
   </footer>
