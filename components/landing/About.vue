@@ -46,9 +46,19 @@ const team = [
       width: 580,
       height: 580,
     },
-  },{
+  },
+  {
     name: 'Christian Straßer',
     title: 'Data Scientist',
+    avatar: {
+      src: TeamImg5,
+      width: 580,
+      height: 580,
+    },
+  },
+  {
+    name: 'Rüdiger Hass',
+    title: 'QA Engineer',
     avatar: {
       src: TeamImg5,
       width: 580,
@@ -70,8 +80,8 @@ const team = [
         Empowering the world with AI.
       </h2>
       <p class="text-lg leading-relaxed text-slate-500">
-        We're a multi-cultural team with diverse backgrounds, bringing different personalities,
-        experiences and skills to the job.
+        We're a multi-cultural team with diverse backgrounds, bringing
+        different personalities, experiences and skills to the job.
       </p>
     </div>
     <div class="grid md:grid-cols-3 gap-10 mx-auto max-w-4xl mt-12">
