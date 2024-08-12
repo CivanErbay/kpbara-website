@@ -39,7 +39,7 @@ const team = [
     },
   },
   {
-    name: 'Martin XX',
+    name: 'Martin Sprundflasche',
     title: 'Data Scientist',
     avatar: {
       src: TeamImg4,
@@ -47,7 +47,7 @@ const team = [
       height: 580,
     },
   },
-  {
+ /*  {
     name: 'Christian Straßer',
     title: 'Data Scientist',
     avatar: {
@@ -55,7 +55,7 @@ const team = [
       width: 580,
       height: 580,
     },
-  },
+  }, */
   {
     name: 'Rüdiger Hass',
     title: 'QA Engineer',
