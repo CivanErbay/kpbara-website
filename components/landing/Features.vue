@@ -27,7 +27,7 @@ const features = [
   {
     title: "End-to-End Delivery",
     description:
-      "From backend AI implementation to the front-end user experience, we deliver fully integrated solutions that are ready to deploy and scale..",
+      "From backend AI implementation to the front-end user experience, we deliver fully integrated solutions that are ready to deploy and scale.",
     icon: "bx:bxs-file-find",
   },
   {

@@ -3,10 +3,11 @@ definePageMeta({
   layout: 'landing',
 })
 
-const TeamImg1 = 'https://source.unsplash.com/IF9TK5Uy-KI'
+
 const TeamImg4 = 'https://source.unsplash.com/IF9TK5Uy-KI'
 const TeamImg5 = 'https://source.unsplash.com/IF9TK5Uy-KI'
 
+import TeamImg1 from '~/assets/img/Anna.jpg'
 import TeamImg2 from '~/assets/img/c_erbay.jpg'
 import TeamImg3 from '~/assets/img/paco1.jpg'
 
