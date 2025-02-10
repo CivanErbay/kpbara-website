@@ -8,7 +8,7 @@ definePageMeta({
   <LandingContainer>
     <LandingSectionhead>
       <template v-slot:title>Contact</template>
-      <template v-slot:desc> Have something to say? We are here to help. Fill up the form or send
+      <template v-slot:desc> Have something to say? We are here to help. Send
          an email.</template>
     </LandingSectionhead>
 
@@ -40,9 +40,9 @@ definePageMeta({
           </div> -->
         </div>
       </div>
-      <div>
+     <!--  <div>
         <LandingContactform />
-      </div>
+      </div> -->
     </div>
   </LandingContainer>
 </template>

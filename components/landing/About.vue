@@ -4,11 +4,11 @@ definePageMeta({
 })
 
 
-const TeamImg4 = 'https://source.unsplash.com/IF9TK5Uy-KI'
 
 import TeamImg1 from '~/assets/img/Anna.jpg'
 import TeamImg2 from '~/assets/img/c_erbay.jpg'
 import TeamImg3 from '~/assets/img/paco1.jpg'
+import TeamImg4 from '~/assets/img/placeholder.jpg'
 import TeamImg5 from '~/assets/img/rüdiger.jpg'
 
 const team = [
@@ -48,16 +48,16 @@ const team = [
       height: 580,
     },
   },
- /*  {
-    name: 'Christian Straßer',
+  {
+    name: 'Christian Strasser',
     title: 'Data Scientist',
     avatar: {
-      src: TeamImg5,
+      src: TeamImg4,
       width: 580,
       height: 580,
     },
-  }, */
-  {
+  },
+  /* {
     name: 'Rüdiger Hass',
     title: 'QA Engineer',
     avatar: {
@@ -65,7 +65,7 @@ const team = [
       width: 580,
       height: 580,
     },
-  },
+  }, */
 ]
 </script>
 
